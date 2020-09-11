@@ -28,3 +28,16 @@ My current goal is to become a Front-End developer and craft a portfolio of webs
 
 1. _**BSEU**_ - 2019
 2. _**School of business of BSU**_ - 2020
+
+### Code examples
+
+    // write the function isAnagram
+    var isAnagram = function(test, original) {
+    var t = test.toLowerCase().split('').sort().join('');
+    var o = original.toLowerCase().split('').sort().join('');
+    return (t==o)?true:false;    
+    };
+
+### English level
+
+Intermediate (B1)
